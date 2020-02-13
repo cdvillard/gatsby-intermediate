@@ -1,3 +1,5 @@
+{ Charles Villard 's coursework for:} |
+
 # Intermediate/Advanced Gatsby
 
 A Frontend Masters workshop.
@@ -133,4 +135,3 @@ git checkout start
   - Query based on the current search string
 - Figure out the search string from state or URL
   - `location`
-
